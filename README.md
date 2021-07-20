@@ -30,6 +30,7 @@ To get started deploying right away:
 * start the development server with `npm start`
 
 ### Reference
+* Fully commented unexplained logic and confusing parts.
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 * https://react.semantic-ui.com/
 * https://www.samanthaming.com/tidbits/76-converting-object-to-array/
